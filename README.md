@@ -5,6 +5,8 @@ The aim of this project is to conduct a comprehensive analysis of e-commerce sal
 **Description:**
 This project focuses on analyzing e-commerce sales data to extract meaningful insights for strategic decision-making. Leveraging Excel's pivot tables, pivot charts, slicers, and advanced charting features, the analysis delves into sales and profit trends over multiple years, examines category-wise sales and profitability, evaluates regional performance, and identifies top-selling subcategories.
 
+![E-commerece Sales Analysis](https://github.com/vsvkkengam/E-commerece-Sales-Analysis/blob/main/E-commerce%20sales%20dashboard.png)
+
 **Tools and Techniques:**
 1. Pivot tables: Utilized for summarizing and analyzing large datasets, facilitating dynamic analysis of sales and profit data.
 2. Pivot charts: Used to visualize trends and patterns in sales and profitability, providing interactive representations of the data.
